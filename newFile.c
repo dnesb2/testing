@@ -9,5 +9,6 @@ char myMessage[50]="CS211 Midterm Exam #1\nReview Document";
   
   printf("%c",*myCharPtr); // (d)
   printf("%s",myCharPtr); // (e)
+  printf("\nhi me!!!");
   return 0;
 }
